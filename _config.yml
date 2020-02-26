@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Azhar Subhan Fauzi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://lh3.googleusercontent.com/CY0RzSOHwE_NOmdO6RKOSHqvYlsUM0h1ejGaPGmLaAfRJiawvHYfntp297XbWSSjZmjuxFVHxfHPpJNaqqkKQOWvtZ6ylMapjqSMi5Y70nRjmKlYO7PU6TWQhQQf7g00wpgqj5r0uTRadvkQleAtOBr-1DjfsufI08aGiDc8_EsicpT9n6Z5SsCwSrEANcDl7Wiuy4s5rZ7y_h43vWmtRaGqle-xE0Y4SOsnrS8YjxZaHAEuzWPFnketGp4CI40sNPfReWQ6cTqrRsz2NY6hyoYbjZ2aXc4MoZ8-E45pJmNpoxX3WORnblirHOKKtVAvmXo47gSTbVhJuDDJI8fNNtTdH2unt9-2xnZwx0iTw81_Fna4FNRwof1ZS_BYf1GOF339yPJaqArgsjh34ZNhwvEiJfMqMW-oXjfu2HVZBnmMP3tx_PUfj66_5cj9C3laJ_Zk4huAVFzacG4NMsXbPYgw03Mz_c4qyDtSh6Ll_nhJKM7YJx7h5b1UvPtYCAh-UwXwprI-2hdvfvlgTavxBZ_cw0w1PcEJ2ihbznhWGZN_3KEFO0WWRcQWrJns64msEDuMBjFKUNVnhbMxPyLqfRP4hvLMCagTsftMV4iX_wD4PW3lI9HTgJa39JzS-eQk2IXKY6kFa7UCSCtjw7nGSkdTYJ9QdjCOJ_PDyZ5roIYo4wzviXvmQJ80C-svk9vHTnWKHbxI" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just an **ordinary** person."
   location         : "Nowhere"
   email            : "azharsubhan97@gmail.com"
