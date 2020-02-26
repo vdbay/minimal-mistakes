@@ -115,22 +115,22 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:azharsubhan97@gmail.com
+      url: mailto:azharsubhan97@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://vdbay.github.io/minimal-mistakes/"
+      url: "https://vdbay.github.io/minimal-mistakes/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/vdbay"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/vdbay"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/azhar_subhan"
+      url: "https://instagram.com/azhar_subhan"
 
 # Site Footer
 footer:
@@ -140,10 +140,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://facebook.com/vdbay"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/vdbay"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/azhar_subhan"
+      url: "https://instagram.com/azhar_subhan"
 
 
 # Reading Files
