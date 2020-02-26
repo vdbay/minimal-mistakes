@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/azhar_subhan"
+      # url: "https://instagram.com/azhar_subhan"
 
 
 # Reading Files
