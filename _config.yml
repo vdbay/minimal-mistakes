@@ -115,10 +115,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:azharsubhan97@gmail.com
+      # url: mailto:azharsubhan97@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://vdbay.github.io/minimal-mistakes/"
+      # url: "https://vdbay.github.io/minimal-mistakes/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -130,7 +130,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/azhar_subhan"
+      # url: "https://instagram.com/azhar_subhan"
 
 # Site Footer
 footer:
