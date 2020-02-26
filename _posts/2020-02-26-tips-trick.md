@@ -8,5 +8,5 @@ tags:
   - tipstrick
 ---
 
-Tips and trick for this course?\ 
-__JUST HAVE FUN!__\ 
+Tips and trick for this course?<br>
+__JUST HAVE FUN!__<br>
